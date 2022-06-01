@@ -1,8 +1,8 @@
-# Top Anime Series Exploratory Analysis
+# Top Anime Series Analysis
 
-The Top Anime Series is an Exploratory Data Analysis that explores data collected from https://myanimelist.net/.
+The Top Anime Series is an Exploratory Data Analysis that explores 4,000+ collected data from https://myanimelist.net/.
 
-This project utilizes statistical methods and data visualizations through Python. This projects investigates the trends and patterns on how the Top 5 Studios were able to become successful. Research questions were created that involves statistical analyses and data visualizations that moves the investigation foward.
+This project utilizes Python libraries and its functions through Jupyter Notebook application. It demonstrates the trends and patterns on the success of the the Top 5 Studios producing animes by uncovering insights and segmentations. Research questions were created to move the investigation forward and assist with statistical methods and data visualizations.
 
 ## Sections
 > Introduction <br />
