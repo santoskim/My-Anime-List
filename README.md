@@ -12,3 +12,6 @@ This project utilizes Python libraries and its functions through Jupyter Noteboo
 > Exploratory Data Analysis <br />
 > Overall Analysis <br />
 > Conclusion
+
+
+Each section provides an overall synopsis and detailed steps and directions on where the project leads towards. 
