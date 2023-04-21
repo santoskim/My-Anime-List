@@ -1,8 +1,8 @@
 # Top Anime Series Analysis
 
-The Top Anime Series is an Exploratory Data Analysis that explores 4,000+ collected data from https://myanimelist.net/.
+This project explores 4,000+ data points scraped from My Anime List top anime series from 2020. Python libraries and JupyterLab application was utilized as it aimed to identify trends and patterns in how anime series are distributed across various variables within the dataset. Research questions were formulated to guide the investigation and facilitate the use of statistical methods and data visualizations.
 
-This project utilizes Python libraries and its functions through Jupyter Notebook application. It demonstrates the trends and patterns where animes are distributed amongst variables gathered. Research questions were created to move the investigation forward and assist with statistical methods and data visualizations.
+You may find the process of scraping the data in a different .iypnb file.
 
 ## Sections
 > Introduction <br />
@@ -14,6 +14,6 @@ This project utilizes Python libraries and its functions through Jupyter Noteboo
 > Conclusion
 
 
-Each section provides an overall synopsis and detailed steps and directions on where the project leads towards. 
+Each section provides a comprehensive summary along with detailed directions for the projects progression.
 
 You may click on the MALTopAnimeAnalysis.ipynb to view the project.
