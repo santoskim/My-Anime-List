@@ -16,4 +16,4 @@ You may find the process of scraping the data in a different .iypnb file.
 
 Each section provides a comprehensive summary along with detailed directions for the projects progression.
 
-You may click on the MALTopAnimeAnalysis.ipynb to view the project.
+You may click on the MALTopAnimeAnalysis .ipynb to view the project.
